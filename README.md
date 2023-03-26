@@ -44,3 +44,6 @@
 - [Freya Holmér](https://www.youtube.com/@Acegikmo)
 - [Christian Spannagel (German 🇩🇪)](https://www.youtube.com/@pharithmetik)
 - [Einführung in die Kryptographie von Christof Paar (German 🇩🇪)](https://www.youtube.com/@einfuhrungindiekryptograph621)
+
+## Helpful tools for learning
+- [Excalidraw](https://excalidraw.com/)
