@@ -7,6 +7,7 @@
 - [teej_dv](https://www.twitch.tv/teej_dv)
 - [bashbunni](https://www.twitch.tv/bashbunni)
 - [Theo](https://www.twitch.tv/theo)
+- [LowLevelLearning](https://www.twitch.tv/lowlevellearning)
 
 ## YouTube
 
@@ -33,7 +34,6 @@
 - [Coding with John](https://www.youtube.com/@CodingWithJohn)
 - [beiatrix](https://www.youtube.com/@beiatrix)
 - [uidotdev](https://www.youtube.com/@uidotdev)
-- [LowLevelLearning](https://www.twitch.tv/lowlevellearning)
 
 ### Hardware and networking
 - [Tech Craft](https://www.youtube.com/@tech_craft)
