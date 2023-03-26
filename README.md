@@ -34,6 +34,7 @@
 - [Coding with John](https://www.youtube.com/@CodingWithJohn)
 - [beiatrix](https://www.youtube.com/@beiatrix)
 - [uidotdev](https://www.youtube.com/@uidotdev)
+- [Dreams of Code](https://www.youtube.com/@dreamsofcode)
 
 ### Hardware and networking
 - [Tech Craft](https://www.youtube.com/@tech_craft)
