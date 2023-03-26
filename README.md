@@ -18,6 +18,7 @@
 - [CodeAesthetic](https://www.youtube.com/@CodeAesthetic)
 - [ThePrimeagen](https://www.youtube.com/@ThePrimeagen), [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen)
 - [The Coding Train](https://www.youtube.com/@TheCodingTrain)
+- [HTTP 203](https://youtube.com/playlist?list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9)
 - [freeCodeCamp.org](https://www.youtube.com/@freecodecamp)
 - [The Cherno](https://www.youtube.com/@TheCherno)
 - [Fireship](https://www.youtube.com/@Fireship)
