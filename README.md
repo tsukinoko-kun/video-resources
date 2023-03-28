@@ -14,6 +14,7 @@
 ### General
 - [Computerphile](https://www.youtube.com/@Computerphile)
 - [Engineer Man](https://www.youtube.com/@EngineerMan)
+- [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
 
 ### Programming
 #### General
@@ -28,7 +29,6 @@
 - [JomaClass](https://www.youtube.com/@JomaClass)
 - [Dreams of Code](https://www.youtube.com/@dreamsofcode)
 - [DistroTube](https://www.youtube.com/@DistroTube)
-- [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
 
 #### Best Practices
 - [CodeAesthetic](https://www.youtube.com/@CodeAesthetic)
