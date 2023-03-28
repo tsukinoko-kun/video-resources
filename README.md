@@ -38,6 +38,7 @@
 - [Theo](https://www.youtube.com/@t3dotgg)
 - [Matt Pocock](https://www.youtube.com/@mattpocockuk)
 - [James Q Quick](https://www.youtube.com/@JamesQQuick)
+- [Greg Johnston](https://www.youtube.com/@gbjxc)
 - [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
 
 #### UI
