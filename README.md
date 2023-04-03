@@ -30,6 +30,7 @@
 - [Dreams of Code](https://www.youtube.com/@dreamsofcode)
 - [DistroTube](https://www.youtube.com/@DistroTube)
 - [Your Average Tech Bro](https://youtube.com/@YourAverageTechBro)
+- [Code Bullet](https://www.youtube.com/@CodeBullet)
 
 #### Best Practices
 - [CodeAesthetic](https://www.youtube.com/@CodeAesthetic)
