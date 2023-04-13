@@ -34,6 +34,7 @@
 
 #### Best Practices
 - [CodeAesthetic](https://www.youtube.com/@CodeAesthetic)
+- [Molly Rocket](https://www.youtube.com/@MollyRocket)
 
 #### Web
 - [HTTP 203](https://youtube.com/playlist?list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9)
