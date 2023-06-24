@@ -20,10 +20,11 @@
 #### General
 - [ThePrimeagen](https://www.youtube.com/@ThePrimeagen), [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen)
 - [The Coding Train](https://www.youtube.com/@TheCodingTrain)
-- [freeCodeCamp.org](https://www.youtube.com/@freecodecamp)
 - [Fireship](https://www.youtube.com/@Fireship)
 - [Code to the Moon](https://www.youtube.com/@codetothemoon)
 - [NeetCode](https://www.youtube.com/@NeetCode)
+- [TJ DeVries](https://www.youtube.com/@teej_dv)
+- [freeCodeCamp.org](https://www.youtube.com/@freecodecamp)
 - [JetBrains](https://www.youtube.com/@JetBrainsTV)
 - [bashbunni](https://www.youtube.com/@bashbunni)
 - [JomaClass](https://www.youtube.com/@JomaClass)
@@ -49,9 +50,11 @@
 - [uidotdev](https://www.youtube.com/@uidotdev)
 - [Flux Academy](https://www.youtube.com/@FluxAcademy)
 
-#### Low Level & Games
+#### Games
+- [Randy](https://www.youtube.com/@bigrando420)
 - [The Cherno](https://www.youtube.com/@TheCherno)
-- [TJ DeVries](https://www.youtube.com/@teej_dv)
+
+#### Low Level
 - [Let's Get Rusty](https://www.youtube.com/@letsgetrusty)
 
 #### Basics
@@ -61,6 +64,7 @@
 ### Hardware and networking
 - [Tech Craft](https://www.youtube.com/@tech_craft)
 - [Techno Tim](https://www.youtube.com/@TechnoTim)
+- [Michael Reeves](https://www.youtube.com/@MichaelReeves)
 
 ### Math, physics and crypto
 - [Freya Holmér](https://www.youtube.com/@Acegikmo)
