@@ -15,6 +15,7 @@
 - [Computerphile](https://www.youtube.com/@Computerphile)
 - [Engineer Man](https://www.youtube.com/@EngineerMan)
 - [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
+- [SyncMain](https://www.youtube.com/@SyncMain)
 
 ### Programming
 #### General
@@ -55,7 +56,8 @@
 - [The Cherno](https://www.youtube.com/@TheCherno)
 
 #### Low Level
-- [Let's Get Rusty](https://www.youtube.com/@letsgetrusty)
+- [Let's Get Rusty](https://www.youtube.com/@letsgetrusty) (Rust)
+- [C++ Weekly With Jason Turner](https://www.youtube.com/@cppweekly) (C++)
 
 #### Basics
 - [Coding with John](https://www.youtube.com/@CodingWithJohn)
