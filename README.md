@@ -58,6 +58,7 @@
 #### Low Level
 - [Let's Get Rusty](https://www.youtube.com/@letsgetrusty) (Rust)
 - [C++ Weekly With Jason Turner](https://www.youtube.com/@cppweekly) (C++)
+- [The Builder](https://www.youtube.com/@TheBuilder) (C)
 
 #### Basics
 - [Coding with John](https://www.youtube.com/@CodingWithJohn)
