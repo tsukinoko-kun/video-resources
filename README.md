@@ -46,6 +46,7 @@
 - [James Q Quick](https://www.youtube.com/@JamesQQuick)
 - [Greg Johnston](https://www.youtube.com/@gbjxc)
 - [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
+- [Kevin Powell](https://www.youtube.com/@KevinPowell)
 
 #### UI
 - [uidotdev](https://www.youtube.com/@uidotdev)
