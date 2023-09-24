@@ -54,6 +54,7 @@
 #### Games
 - [Randy](https://www.youtube.com/@bigrando420)
 - [The Cherno](https://www.youtube.com/@TheCherno)
+- [IndividualKex](https://www.youtube.com/@IndividualKex)
 
 #### Low Level
 - [Let's Get Rusty](https://www.youtube.com/@letsgetrusty) (Rust)
