@@ -45,6 +45,7 @@
 - [Matt Pocock](https://www.youtube.com/@mattpocockuk)
 - [James Q Quick](https://www.youtube.com/@JamesQQuick)
 - [Greg Johnston](https://www.youtube.com/@gbjxc)
+- [Hyperplexed](https://www.youtube.com/@Hyperplexed)
 - [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
 - [Kevin Powell](https://www.youtube.com/@KevinPowell)
 
